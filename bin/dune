@@ -1,0 +1,4 @@
+(executable
+ (public_name vpdf)
+ (name main)
+ (libraries vpdf))
